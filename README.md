@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Berat Taner
 
-Gömülü yazılım alanında gerçek sahada aktif olarak kullanılan sistemler geliştiren firmware geliştiricisiyim.  
-Özellikle custom donanım kartları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı sistemler üzerine çalışıyorum.
+Gerçek sahada aktif olarak kullanılan sistemler geliştiren gömülü yazılım geliştiricisiyim.  
+Özellikle custom hardware platformları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı kontrol sistemleri üzerine çalışıyorum.
 
 Embedded firmware developer focused on real-world systems running on custom hardware platforms.
 
@@ -11,8 +11,7 @@ Embedded firmware developer focused on real-world systems running on custom hard
 
 - Firmware Development (C/C++)
 - Embedded Systems
-- Custom Hardware Integration
-- Sensor Systems
+- Sensor Integration
 - Communication Protocols (UART, I2C, SPI, RS485, MQTT, WiFi)
 - Real-time Control Systems
 - Embedded Linux Integration
@@ -38,7 +37,7 @@ Embedded firmware developer focused on real-world systems running on custom hard
 ## 🛠️ Teknolojiler
 
 C • C++ • PlatformIO • Embedded Linux • MQTT  
-Custom PCB Systems • Sensor Systems • Web Interface  
+Custom Hardware Platforms • Sensor Systems • Web Interface  
 
 ---
 
