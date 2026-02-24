@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Berat Taner
+# 👋 Merhaba, ben Berat Taner | Embedded Firmware Engineer
 
 Gerçek sahada aktif olarak kullanılan sistemler geliştiren gömülü yazılım geliştiricisiyim.  
 Özellikle custom hardware platformları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı kontrol sistemleri üzerine çalışıyorum.
