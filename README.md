@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Merhaba, ben Berat Taner
 
-<!--
-**berattaner/berattaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gömülü yazılım alanında gerçek sahada aktif olarak kullanılan sistemler geliştiren firmware geliştiricisiyim.  
+Özellikle custom donanım kartları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı sistemler üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+Embedded firmware developer focused on real-world systems running on custom hardware platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Uzmanlık Alanları
+
+- Firmware Development (C/C++)
+- Embedded Systems
+- Custom Hardware Integration
+- Sensor Systems
+- Communication Protocols (UART, I2C, SPI, RS485, MQTT, WiFi)
+- Real-time Control Systems
+- Embedded Linux Integration
+- Local Web Interface Development
+- System Testing & Field Deployment
+
+---
+
+## 🧠 Öne Çıkan Projeler
+
+🔹 Interactive Music Systems (Dubai Music Museum)  
+🔹 Smart Scale & Smart Stadiometer  
+🔹 Traffic Control Systems with Data Logging  
+🔹 Wireless Sensor Network (KOSGEB Project)  
+🔹 Fire Simulation Systems  
+🔹 Industrial Smoke Generator with PID Control  
+🔹 Interactive Animal Sound System  
+🔹 Digital Aquarium Control System  
+🔹 IoT Data Monitoring with ThingsBoard  
+
+---
+
+## 🛠️ Teknolojiler
+
+C • C++ • PlatformIO • Embedded Linux • MQTT  
+Custom PCB Systems • Sensor Systems • Web Interface  
+
+---
+
+## 📫 İletişim
+
+📧 Mail: berat.taner.indere@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/berat-taner/  
+
+---
