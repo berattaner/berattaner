@@ -16,8 +16,7 @@ Geliştirdiğim sistemlerin sahaya gönderim öncesi test ve doğrulama süreçl
 - Haberleşme Protokolleri (UART, I2C, SPI, RS485, MQTT, WiFi)  
 - Gerçek Zamanlı Kontrol Sistemleri  
 - Local Web Arayüz Geliştirme  
-- Sistem Test ve Doğrulama  
-- Sahaya Gönderim Öncesi Test ve Doğrulama   
+- Sistem Test ve Doğrulama    
 - Hata Loglama ve Veri Analizi  
 
 ---
