@@ -1,49 +1,125 @@
-# 👋 Merhaba, ben Berat Taner | Embedded Firmware Engineer
+# 👋 Merhaba, ben Berat Taner | Embedded Firmware Developer  
 
 Gerçek sahada aktif olarak kullanılan sistemler geliştiren gömülü yazılım geliştiricisiyim.  
-Özellikle custom hardware platformları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı kontrol sistemleri üzerine çalışıyorum.
+Özellikle custom hardware platformları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı kontrol sistemleri üzerine çalışıyorum.  
 
-Embedded firmware developer focused on real-world systems running on custom hardware platforms.
-
----
-
-## 🚀 Uzmanlık Alanları
-
-- Firmware Development (C/C++)
-- Embedded Systems
-- Sensor Integration
-- Communication Protocols (UART, I2C, SPI, RS485, MQTT, WiFi)
-- Real-time Control Systems
-- Embedded Linux Integration
-- Local Web Interface Development
-- System Testing & Field Deployment
+Firmware geliştirme sürecinde sistem tasarımı, test ve entegrasyon süreçlerinde aktif rol aldım.  
+Geliştirdiğim sistemlerin sahaya gönderim öncesi test ve doğrulama süreçlerini yürüttüm.  
 
 ---
 
-## 🧠 Öne Çıkan Projeler
+# 🚀 Uzmanlık Alanları  
 
-🔹 Interactive Music Systems (Dubai Music Museum)  
-🔹 Smart Scale & Smart Stadiometer  
-🔹 Traffic Control Systems with Data Logging  
-🔹 Wireless Sensor Network (KOSGEB Project)  
-🔹 Fire Simulation Systems  
-🔹 Industrial Smoke Generator with PID Control  
-🔹 Interactive Animal Sound System  
-🔹 Digital Aquarium Control System  
-🔹 IoT Data Monitoring with ThingsBoard  
-
----
-
-## 🛠️ Teknolojiler
-
-C • C++ • PlatformIO • Embedded Linux • MQTT  
-Custom Hardware Platforms • Sensor Systems • Web Interface  
+- Firmware Development (C / C++)  
+- Gömülü Sistem Geliştirme  
+- Sensör Entegrasyonu ve Kalibrasyonu  
+- Haberleşme Protokolleri (UART, I2C, SPI, RS485, MQTT, WiFi)  
+- Gerçek Zamanlı Kontrol Sistemleri  
+- Local Web Arayüz Geliştirme  
+- Sistem Test ve Doğrulama  
+- Sahaya Gönderim Öncesi Test ve Doğrulama   
+- Hata Loglama ve Veri Analizi  
 
 ---
 
-## 📫 İletişim
+# 📂 Gömülü Sistem Proje Alanları  
+
+## 🎵 Etkileşimli Sistemler  
+
+Gerçek zamanlı kullanıcı etkileşimi ve ses kontrol sistemleri  
+
+- Darbuka & Çark Interactive System (Dubai Music Museum)  
+- Sound Effect System (Multi-country deployments)  
+- Animal Sound System  
+- Animal Jaw Movement Controller  
+
+---
+
+## 🏭 Endüstriyel Kontrol Sistemleri  
+
+Endüstriyel otomasyon ve kontrol uygulamaları  
+
+- Traffic Lights Control System (Data logging & error tracking)  
+- Smart Scale System (Multi-node loadcell architecture)  
+- Smart Stadiometer (Ultrasonic measurement system)  
+- Wireless Sensor Network (KOSGEB Project)  
+
+---
+
+## 🔥 Simülasyon Sistemleri  
+
+Gerçek dünya senaryolarını simüle eden sistemler  
+
+- Fire Simulation System (Interactive fire suppression scenario)  
+- Kitchen Fire Simulation (Multi-device synchronized system)  
+- Smart Smoke Generator (PID controlled industrial device)  
+
+---
+
+## 🎮 Etkileşimli Uygulamalar  
+
+Kullanıcı etkileşimli deneyim projeleri  
+
+- Slime Automation Project  
+- Seconds Reaction Game  
+
+---
+
+## 🖥️ İzleme ve IoT Sistemleri  
+
+Uzaktan izleme ve veri toplama sistemleri  
+
+- ThingsBoard IoT Monitoring (MQTT based telemetry system)  
+
+---
+
+## 📊 Yardımcı Sistemler  
+
+Günlük kullanım amaçlı yardımcı sistemler  
+
+- Time & Temperature Display (RTC + Temperature sensor system)  
+
+---
+
+# 🧠 Teknik Yetkinlikler  
+
+- Bare-metal firmware geliştirme  
+- Gerçek zamanlı gömülü sistem mimarisi  
+- Sensör veri işleme ve filtreleme  
+- Haberleşme protokol entegrasyonu  
+- Sistem performans optimizasyonu  
+- Hata yönetimi ve loglama  
+- Endüstriyel kontrol algoritmaları  
+- Signal processing tabanlı efekt sistemleri  
+- PID kontrol uygulamaları  
+
+---
+
+# 🛠️ Kullandığım Teknolojiler  
+
+C • C++ • PlatformIO • MQTT  
+Custom Hardware Platforms • Sensor Systems  
+Embedded Communication Protocols  
+Local Web Interface Development  
+
+---
+
+# 🌍 Saha Deneyimi  
+
+Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.  
+
+🇷🇴 Romanya  
+🇬🇷 Yunanistan  
+🇵🇹 Portekiz  
+🇹🇷 Türkiye  
+
+---
+
+# 📫 İletişim  
 
 📧 Mail: berat.taner.indere@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/berat-taner/  
+💼 LinkedIn: https://www.linkedin.com/in/berat-taner/  
 
 ---
+
+⭐ Bu profil gerçek saha deneyimine dayalı gömülü sistem projelerini içermektedir.  
