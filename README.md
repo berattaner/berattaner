@@ -1,10 +1,8 @@
 # 👋 Merhaba, ben Berat Taner | Embedded Firmware Developer  
 
-Gerçek sahada aktif olarak kullanılan sistemler geliştiren gömülü yazılım geliştiricisiyim.  
-Özellikle custom hardware platformları üzerinde çalışan, sensör entegrasyonu, haberleşme protokolleri ve gerçek zamanlı kontrol sistemleri üzerine çalışıyorum.  
-
-Firmware geliştirme sürecinde sistem tasarımı, test ve entegrasyon süreçlerinde aktif rol aldım.  
-Geliştirdiğim sistemlerin sahaya gönderim öncesi test ve doğrulama süreçlerini yürüttüm.  
+Gerçek sahada kullanılan ürünler için firmware geliştiren bir gömülü yazılım geliştiricisiyim.  
+Custom hardware platformlarında çalışan sensör tabanlı sistemler, haberleşme protokolleri ve gerçek zamanlı kontrol uygulamaları geliştiriyorum.  
+Sistemlerin test, doğrulama ve performans süreçlerinde aktif rol alıyorum.  
 
 ---
 
@@ -107,10 +105,10 @@ Local Web Interface Development
 
 Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.  
 
-🇷🇴 Romanya  
-🇬🇷 Yunanistan  
-🇵🇹 Portekiz  
-🇹🇷 Türkiye  
+🇹🇷 Türkiye            🇷🇺 Rusya            🇦🇪 Dubai (BAE)
+🇬🇷 Yunanistan         🇺🇦 Ukrayna          🇪🇬 Mısır 
+🇵🇹 Portekiz           🇫🇷 Fransa           🇺🇸 Amerika Birleşik Devletleri
+🇷🇴 Romanya            🇳🇱 Hollanda             
 
 ---
 
@@ -121,4 +119,5 @@ Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.
 
 ---
 
-⭐ Bu profil gerçek saha deneyimine dayalı gömülü sistem projelerini içermektedir.  
+⭐ Bu profil gerçek saha deneyimine dayalı gömülü sistem projelerini içermektedir.
+Geliştirilen sistemler gerçek donanım üzerinde test edilmiş ve sahada aktif olarak çalışmaktadır.  
