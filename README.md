@@ -105,10 +105,10 @@ Local Web Interface Development
 
 Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.  
 
-🇹🇷 Türkiye
-🇬🇷 Yunanistan
-🇵🇹 Portekiz
-🇷🇴 Romanya                 
+-🇹🇷 Türkiye
+-🇬🇷 Yunanistan
+-🇵🇹 Portekiz
+-🇷🇴 Romanya                 
 
 ---
 
