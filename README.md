@@ -101,14 +101,11 @@ Local Web Interface Development
 
 ---
 
-# 🌍 Saha Deneyimi  
+# 🌍 Projelerin Kullanıldığı Ülkeler  
 
-Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.  
+Geliştirilmesine katkı sağladığım sistemler aşağıdaki ülkelerde aktif olarak kullanılmaktadır:
 
--🇹🇷 Türkiye
--🇬🇷 Yunanistan
--🇵🇹 Portekiz
--🇷🇴 Romanya                 
+🇹🇷 Türkiye  🇬🇷 Yunanistan  🇷🇴 Romanya  🇵🇹 Portekiz  🇷🇺 Rusya  🇺🇦 Ukrayna  🇫🇷 Fransa  🇳🇱 Hollanda  🇦🇪 BAE (Dubai)  🇪🇬 Mısır  🇺🇸 ABD                 
 
 ---
 
