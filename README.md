@@ -105,7 +105,7 @@ Local Web Interface Development
 
 Geliştirilmesine katkı sağladığım sistemler aşağıdaki ülkelerde aktif olarak kullanılmaktadır:
 
-🇹🇷 Türkiye  🇬🇷 Yunanistan  🇷🇴 Romanya  🇵🇹 Portekiz  🇷🇺 Rusya  🇺🇦 Ukrayna  🇫🇷 Fransa  🇳🇱 Hollanda  🇦🇪 BAE (Dubai)  🇪🇬 Mısır  🇺🇸 ABD                 
+Türkiye, Yunanistan, Romanya, Portekiz, Rusya, Ukrayna, Fransa, Hollanda, Birleşik Arap Emirlikleri (Dubai), Mısır ve Amerika Birleşik Devletleri.                
 
 ---
 
