@@ -105,10 +105,10 @@ Local Web Interface Development
 
 Geliştirdiğim sistemler farklı ülkelerde aktif olarak kullanılmaktadır.  
 
-🇹🇷 Türkiye            🇷🇺 Rusya            🇦🇪 Dubai (BAE)
-🇬🇷 Yunanistan         🇺🇦 Ukrayna          🇪🇬 Mısır 
-🇵🇹 Portekiz           🇫🇷 Fransa           🇺🇸 Amerika Birleşik Devletleri
-🇷🇴 Romanya            🇳🇱 Hollanda             
+🇹🇷 Türkiye
+🇬🇷 Yunanistan
+🇵🇹 Portekiz
+🇷🇴 Romanya                 
 
 ---
 
