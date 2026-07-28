@@ -11,7 +11,7 @@ Sistemlerin test, doğrulama ve performans süreçlerinde aktif rol alıyorum.
 - Firmware Development (C / C++)  
 - Gömülü Sistem Geliştirme  
 - Sensör Entegrasyonu ve Kalibrasyonu  
-- Haberleşme Protokolleri (UART, I2C, SPI, RS485, MQTT, WiFi)  
+- Haberleşme Protokolleri (UART, I2C, SPI, RS485, MQTT, WiFi, TCP/IP)  
 - Gerçek Zamanlı Kontrol Sistemleri  
 - Local Web Arayüz Geliştirme  
 - Sistem Test ve Doğrulama    
