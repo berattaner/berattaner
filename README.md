@@ -161,7 +161,7 @@ Türkiye, Yunanistan, Romanya, Portekiz, Rusya, Ukrayna, Fransa, Hollanda, Birle
 # 📫 İletişim  
 
 📧 Mail: berat.taner.indere@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/berat-taner/  
+💼 LinkedIn: https://www.linkedin.com/in/berat-taner-i-b33782199/ 
 
 ---
 
