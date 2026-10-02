@@ -166,23 +166,23 @@ Günlük kullanım amaçlı yardımcı sistemler
 
 **Programlama Dilleri**
 
-C • C++ • Python • HTML • CSS • JavaScript
+• C • C++ • Python • HTML • CSS • JavaScript
 
 **Gömülü Sistemler**
 
-ESP32 • STM32 • ESP-IDF • FreeRTOS • EEPROM • ADC
+• ESP32 • STM32 • ESP-IDF • FreeRTOS • EEPROM • ADC
 
 **Haberleşme & Protokoller**
 
-UART • I2C • SPI • RS-232 • RS-485 • Wi-Fi • TCP/IP • MQTT • HTTP • ESP-NOW
+• UART • I2C • SPI • RS-232 • RS-485 • Wi-Fi • TCP/IP • MQTT • HTTP • ESP-NOW
 
 **IoT & Web**
 
-ThingsBoard • MQTT • Web Server • Local Web Interface • Dashboard
+• ThingsBoard • MQTT • Web Server • Local Web Interface • Dashboard
 
 **Geliştirme Araçları**
 
-PlatformIO • Visual Studio Code • STM32CubeIDE
+• PlatformIO • Visual Studio Code • STM32CubeIDE
 
 ---
 
