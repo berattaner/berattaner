@@ -9,20 +9,36 @@ Sistemlerin test, hata ayıklama, doğrulama ve performans süreçlerinde aktif 
 
 ---
 
-# 🚀 Uzmanlık Alanları  
+# 🚀 Çalışma Alanları 
 
-- Firmware Development (C / C++)  
-- Gömülü Sistem Geliştirme  
-- Sensör Entegrasyonu ve Kalibrasyonu  
-- Haberleşme Protokolleri (UART, I2C, SPI, RS485, MQTT, WiFi, TCP/IP)  
-- Gerçek Zamanlı Kontrol Sistemleri  
-- Local Web Arayüz Geliştirme  
-- Sistem Test ve Doğrulama    
-- Hata Loglama ve Veri Analizi  
+- C/C++ ile Firmware Geliştirme
+- Mikrodenetleyici Tabanlı Gömülü Sistemler
+- Sensör Entegrasyonu ve Veri İşleme
+- Haberleşme Protokolleri (UART, I2C, SPI, RS-232, RS-485)
+- Wi-Fi ve IoT Sistemleri
+- MQTT ve HTTP Tabanlı Haberleşme
+- Gerçek Zamanlı Kontrol Sistemleri
+- Cihaz Üzerinde Web Sunucusu ve Arayüz Geliştirme
+- Sistem Testi ve Hata Ayıklama
+- Veri Loglama ve Analizi
 
 ---
 
 # 📂 Gömülü Sistem Proje Alanları  
+
+## 🏠 Akıllı Ev ve Gömülü Sistemler
+
+### Smart Home Control System
+
+FreeRTOS tabanlı, Wi-Fi ve RS-485 haberleşme kullanan akıllı ev kontrol sistemi üzerinde çalıştım.
+
+Sistemde merkezi kontrol cihazı ve oda tipi touch paneller bulunuyor. Touch panel üzerinden verilen komutlar RS-485 üzerinden merkezi cihaza iletilerek cihazların kontrolü sağlanıyor. Cihaz durumlarının merkezi kontrol ekranı ve oda panellerinde eşzamanlı olarak güncellenmesi üzerinde çalıştım.
+
+Dual-core FreeRTOS mimarisinde web sunucusu ve RS-485 görevlerini ayrı çekirdeklerde çalıştırarak görevler arasında veri iletişimi sağladım.
+
+Merkezi cihaz ve touch paneller için Wi-Fi üzerinden HTTP tabanlı OTA firmware güncellemeleri gerçekleştirdim.
+
+**Teknolojiler:** ESP32, C/C++, FreeRTOS, Wi-Fi, HTTP, OTA, RS-485, Web Server, Touch Panel
 
 ## 🎵 Etkileşimli Sistemler  
 
@@ -132,24 +148,41 @@ Günlük kullanım amaçlı yardımcı sistemler
 
 # 🧠 Teknik Yetkinlikler  
 
-- Bare-metal firmware geliştirme  
-- Gerçek zamanlı gömülü sistem mimarisi  
-- Sensör veri işleme ve filtreleme  
-- Haberleşme protokol entegrasyonu  
-- Sistem performans optimizasyonu  
-- Hata yönetimi ve loglama  
-- Endüstriyel kontrol algoritmaları  
-- Signal processing tabanlı efekt sistemleri  
-- PID kontrol uygulamaları  
+- C/C++ tabanlı firmware geliştirme
+- Mikrodenetleyici tabanlı sistemler
+- Gerçek zamanlı gömülü sistemler
+- Sensör veri işleme, filtreleme ve kalibrasyon
+- Haberleşme protokollerinin entegrasyonu
+- IoT ve MQTT tabanlı sistemler
+- Local Web Server ve cihaz arayüzleri
+- Sistem testleri ve hata ayıklama
+- Veri loglama ve kalıcı veri yönetimi
+- Performans optimizasyonu
+- Kontrol algoritmaları ve state machine yapıları
 
 ---
 
 # 🛠️ Kullandığım Teknolojiler  
 
-C • C++ • PlatformIO • MQTT  
-Custom Hardware Platforms • Sensor Systems  
-Embedded Communication Protocols  
-Local Web Interface Development  
+**Programlama Dilleri**
+
+C • C++ • Python • HTML • CSS • JavaScript
+
+**Gömülü Sistemler**
+
+ESP32 • STM32 • ESP-IDF • FreeRTOS • EEPROM • ADC
+
+**Haberleşme & Protokoller**
+
+UART • I2C • SPI • RS-232 • RS-485 • Wi-Fi • TCP/IP • MQTT • HTTP • ESP-NOW
+
+**IoT & Web**
+
+ThingsBoard • MQTT • Web Server • Local Web Interface • Dashboard
+
+**Geliştirme Araçları**
+
+PlatformIO • Visual Studio Code • STM32CubeIDE
 
 ---
 
