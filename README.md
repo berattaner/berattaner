@@ -1,8 +1,11 @@
 # 👋 Merhaba, ben Berat Taner | Embedded Firmware Developer  
 
-Gerçek sahada kullanılan ürünler için firmware geliştiren bir gömülü yazılım geliştiricisiyim.  
-Custom hardware platformlarında çalışan sensör tabanlı sistemler, haberleşme protokolleri ve gerçek zamanlı kontrol uygulamaları geliştiriyorum.  
-Sistemlerin test, doğrulama ve performans süreçlerinde aktif rol alıyorum.  
+Gerçek sahada kullanılan ürünler için firmware geliştiren bir gömülü yazılım geliştiricisiyim.
+
+C/C++ ile mikrodenetleyici tabanlı sistemlerde firmware geliştirme, cihaz haberleşmesi, sensör entegrasyonu, gerçek zamanlı kontrol ve donanım-yazılım entegrasyonu üzerine çalışıyorum. 
+Wi-Fi ve IoT tabanlı sistemlerde MQTT, HTTP, RS-485 ve cihaz üzerinde çalışan web arayüzleri ile çalıştım.
+
+Sistemlerin test, hata ayıklama, doğrulama ve performans süreçlerinde aktif rol aldım.
 
 ---
 
