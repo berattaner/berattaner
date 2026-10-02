@@ -38,7 +38,7 @@ Gerçek donanım üzerinde sistem testi, hata ayıklama, doğrulama ve performan
   Merkezi cihaz ve touch paneller için Wi-Fi üzerinden HTTP tabanlı OTA firmware güncellemeleri gerçekleştirdim.
   **Teknolojiler:** ESP32, C/C++, FreeRTOS, Wi-Fi, HTTP, OTA, RS-485, Web Server, Touch Panel
 
----
+-------
 
 ## 🎵 Etkileşimli Sistemler  
 
