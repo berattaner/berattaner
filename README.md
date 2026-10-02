@@ -1,11 +1,10 @@
 # 👋 Merhaba, ben Berat Taner | Embedded Firmware Developer  
 
-Gerçek sahada kullanılan ürünler için firmware geliştiren bir gömülü yazılım geliştiricisiyim.
+Gerçek sahada kullanılan ürünler için C/C++ tabanlı firmware geliştirme üzerine çalışıyorum.
 
-C/C++ ile mikrodenetleyici tabanlı sistemlerde firmware geliştirme, cihaz haberleşmesi, sensör entegrasyonu, gerçek zamanlı kontrol ve donanım-yazılım entegrasyonu üzerine çalışıyorum. 
-Wi-Fi ve IoT tabanlı sistemlerde MQTT, HTTP, RS-485 ve cihaz üzerinde çalışan web arayüzleri ile çalıştım.
+Mikrodenetleyici tabanlı sistemlerde donanım-yazılım entegrasyonu, sensör verilerinin işlenmesi, cihazlar arası haberleşme ve gerçek zamanlı kontrol uygulamaları üzerinde çalıştım. Wi-Fi ve IoT tabanlı sistemlerde MQTT, HTTP, RS-485 ve cihaz üzerinde çalışan web arayüzleriyle deneyim kazandım.
 
-Sistemlerin test, hata ayıklama, doğrulama ve performans süreçlerinde aktif rol aldım.
+Gerçek donanım üzerinde sistem testi, hata ayıklama, doğrulama ve performans iyileştirme çalışmalarında görev aldım.
 
 ---
 
@@ -34,7 +33,7 @@ FreeRTOS tabanlı, Wi-Fi ve RS-485 haberleşme kullanan akıllı ev kontrol sist
 
 Sistemde merkezi kontrol cihazı ve oda tipi touch paneller bulunuyor. Touch panel üzerinden verilen komutlar RS-485 üzerinden merkezi cihaza iletilerek cihazların kontrolü sağlanıyor. Cihaz durumlarının merkezi kontrol ekranı ve oda panellerinde eşzamanlı olarak güncellenmesi üzerinde çalıştım.
 
-Dual-core FreeRTOS mimarisinde web sunucusu ve RS-485 görevlerini ayrı çekirdeklerde çalıştırarak görevler arasında veri iletişimi sağladım.
+Sistem mimarisinde karşılaşılan kararlılık problemlerinin giderilmesi kapsamında, merkezi kontrol yapısını tek master mikrodenetleyici üzerinden çalışacak şekilde düzenledim. Dual-core FreeRTOS yapısında web sunucusu ve RS-485 haberleşme görevlerini ayrı çekirdeklerde çalıştırarak görevler arasında veri iletişimini sağladım.
 
 Merkezi cihaz ve touch paneller için Wi-Fi üzerinden HTTP tabanlı OTA firmware güncellemeleri gerçekleştirdim.
 
@@ -44,7 +43,7 @@ Merkezi cihaz ve touch paneller için Wi-Fi üzerinden HTTP tabanlı OTA firmwar
 
 Gerçek zamanlı kullanıcı etkileşimi ve ses kontrol sistemleri  
 
-- Darbuka Interactive System (Dubai Music Museum)
+###- Darbuka Interactive System (Dubai Music Museum)
                                                                                                              
   MPU6050 ivmeölçer verisini gerçek zamanlı işleyerek FFT tabanlı frekans analizi ile LED ekolayzır ve darbe karakteristiği oluşturduk. Sistem ESP32 tabanlı özel PCB üzerinde düşük gecikmeli ve kararlı biçimde müze ortamında aktif olarak çalışmaktadır.    
   Teknolojiler: ESP32-WROOM-32U, C/C++, FFT, Real-time Signal Processing, Custom PCB
