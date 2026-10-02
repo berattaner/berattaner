@@ -72,6 +72,11 @@ Uzaktan izleme ve veri toplama sistemleri
   85+ cihaz için MQTT tabanlı uzaktan izleme ve parametre yönetim altyapısı geliştirdim. WiFi yoksa AP moduna geçiş, veri buffer’lama ve bağlantı sonrası otomatik veri senkronizasyonu sağlandı. Token bazlı dashboard kontrolü ile merkezi yönetim sağlandı.          
   **Teknolojiler:** C/C++, WiFi, MQTT, EEPROM Buffering, Remote Parameter Management, Dashboard Integration  
 
+- ### MP3 Web File Manager
+
+  ESP-12F tabanlı sistemde MP3 ses dosyalarının firmware içerisinde byte dizisi olarak kullanılmasını ve Wi-Fi üzerinden yerel web arayüzü aracılığıyla cihaza dosya yüklenmesini sağladım. Firmware ve web arayüzü entegrasyonu üzerine çalıştım.
+  **Teknolojiler:** C/C++, ESP-12F, Wi-Fi, Web Server, File System, MP3, Firmware Integration
+
 ---
 
 ## 🔥 Simülasyon Sistemleri  
