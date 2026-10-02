@@ -45,7 +45,7 @@ Gerçek donanım üzerinde sistem testi, hata ayıklama, doğrulama ve performan
 Endüstriyel otomasyon ve kontrol uygulamaları
 - ### Wireless Scoreboard System
 
-  Beckhoff endüstriyel PC ve Ethernet modülleri kullanılan mevcut skorbord sistemini, firmanın kendi tasarladığı kart üzerinden yeniden gerçekleştirerek kablosuz haberleşme ve sensör verileriyle yarış sıralamasının matrix panellerde gösterilmesini sağladım. Sistem verilerinin ThingsBoard ve yerel web arayüzü üzerinden izlenebilir hale getirilmesi üzerine çalıştım.
+  Beckhoff endüstriyel PC ve Ethernet modülleri kullanılan mevcut skorbord sistemini, firmanın kendi tasarladığı kart üzerinden yeniden gerçekleştirerek kablosuz haberleşme ve sensör verileriyle yarış sıralamasının matrix panellerde gösterilmesini sağladım. Sistem verilerinin ThingsBoard ve yerel web arayüzü üzerinden izlenebilir hale getirilmesi üzerine çalıştım.                                                                                                                                        
   **Teknolojiler:** C/C++, Wireless Communication, Sensor Integration, LED Matrix, ThingsBoard, Local Web Interface
 
 - ### Traffic Lights Control System (Data logging & error tracking)
