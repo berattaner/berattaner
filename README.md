@@ -74,7 +74,7 @@ Uzaktan izleme ve veri toplama sistemleri
 
 - ### MP3 Web File Manager
 
-  ESP-12F tabanlı sistemde MP3 ses dosyalarının firmware içerisinde byte dizisi olarak kullanılmasını ve Wi-Fi üzerinden yerel web arayüzü aracılığıyla cihaza dosya yüklenmesini sağladım. Firmware ve web arayüzü entegrasyonu üzerine çalıştım.
+  ESP-12F tabanlı sistemde MP3 ses dosyalarının firmware içerisinde byte dizisi olarak kullanılmasını ve Wi-Fi üzerinden yerel web arayüzü aracılığıyla cihaza dosya yüklenmesini sağladım. Firmware ve web arayüzü entegrasyonu üzerine çalıştım.            
   **Teknolojiler:** C/C++, ESP-12F, Wi-Fi, Web Server, File System, MP3, Firmware Integration
 
 ---
