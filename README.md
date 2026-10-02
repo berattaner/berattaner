@@ -27,7 +27,7 @@ Gerçek donanım üzerinde sistem testi, hata ayıklama, doğrulama ve performan
 
 ## 🏠 Akıllı Ev ve Gömülü Sistemler
 
-### Smart Home Control System
+- ### Smart Home Control System
 
 FreeRTOS tabanlı, Wi-Fi ve RS-485 haberleşme kullanan akıllı ev kontrol sistemi üzerinde çalıştım.
 
