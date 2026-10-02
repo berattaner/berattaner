@@ -13,13 +13,13 @@ Gerçek donanım üzerinde sistem testi, hata ayıklama, doğrulama ve performan
 - C/C++ ile Firmware Geliştirme
 - Mikrodenetleyici Tabanlı Gömülü Sistemler
 - Sensör Entegrasyonu ve Veri İşleme
-- Haberleşme Protokolleri (UART, I2C, SPI, RS-232, RS-485)
+- Cihazlar Arası Haberleşme Protokolleri (UART, I2C, SPI, RS-232, RS-485)
 - Wi-Fi ve IoT Sistemleri
 - MQTT ve HTTP Tabanlı Haberleşme
 - Gerçek Zamanlı Kontrol Sistemleri
 - Cihaz Üzerinde Web Sunucusu ve Arayüz Geliştirme
+- Kontrol Algoritmaları ve State Machine Yapıları
 - Sistem Testi ve Hata Ayıklama
-- Veri Loglama ve Analizi
 
 ---
 
@@ -46,7 +46,7 @@ Gerçek zamanlı kullanıcı etkileşimi ve ses kontrol sistemleri
 
 - ### Darbuka Interactive System (Dubai Music Museum)
                                                                                                              
-  MPU6050 ivmeölçer verisini gerçek zamanlı işleyerek FFT tabanlı frekans analizi ile LED ekolayzır ve darbe karakteristiği oluşturduk. Sistem ESP32 tabanlı özel PCB üzerinde düşük gecikmeli ve kararlı biçimde müze ortamında aktif olarak çalışmaktadır.    
+  MPU6050 ivmeölçer verisini gerçek zamanlı işleyerek FFT tabanlı frekans analizi ile LED ekolayzır ve darbe karakteristiği oluşturdum. Sistem ESP32 tabanlı özel PCB üzerinde düşük gecikmeli ve kararlı biçimde müze ortamında aktif olarak çalışmaktadır.    
   **Teknolojiler:** ESP32-WROOM-32U, C/C++, FFT, Real-time Signal Processing, Custom PCB
 - ### Çark Interactive System (Dubai Music Museum)
        
@@ -77,7 +77,7 @@ Endüstriyel otomasyon ve kontrol uygulamaları
   **Teknolojiler:** C/C++, SPI LED Matrix, Interrupt Architecture, EEPROM Persistence, Local Web Interface  
 - ### Smart Scale System (Multi-node loadcell architecture)
 
-  Loadcell verilerini kalibre edip lineerleştirdim. LED görselleştirme eşik bazlı, maksimum kilo ve minimum dara değerleri local web arayüzünden ayarlanabilir. ESP-NOW üzerinden iki cihaz arasında senkron veri aktarımı sağlandı.        
+  Loadcell verilerini kalibre edip lineerleştirdim. LED görselleştirme eşik bazlı olarak yapılandırıldı. Maksimum, minimum kilo ve dara değerleri local web arayüzü üzerinden ayarlanabilir hâle getirildi. ESP-NOW üzerinden iki cihaz arasında senkron veri aktarımı sağladım.       
   **Teknolojiler:** Loadcell, Calibration Algorithm, C/C++, ESP-NOW, Addressable LED, EEPROM, Local Web Interface  
 - ### Smart Stadiometer (Ultrasonic measurement system)
   
@@ -149,16 +149,17 @@ Günlük kullanım amaçlı yardımcı sistemler
 # 🧠 Teknik Yetkinlikler  
 
 - C/C++ tabanlı firmware geliştirme
-- Mikrodenetleyici tabanlı sistemler
-- Gerçek zamanlı gömülü sistemler
-- Sensör veri işleme, filtreleme ve kalibrasyon
-- Haberleşme protokollerinin entegrasyonu
-- IoT ve MQTT tabanlı sistemler
-- Local Web Server ve cihaz arayüzleri
-- Sistem testleri ve hata ayıklama
-- Veri loglama ve kalıcı veri yönetimi
-- Performans optimizasyonu
-- Kontrol algoritmaları ve state machine yapıları
+- Mikrodenetleyici tabanlı sistemlerde donanım-yazılım entegrasyonu
+- Gerçek zamanlı görev ve kontrol yapıları
+- Sensör verilerinin işlenmesi, filtrelenmesi ve kalibrasyonu
+- UART, I2C, SPI, RS-232 ve RS-485 haberleşme entegrasyonu
+- Wi-Fi ve IoT tabanlı cihaz haberleşmesi
+- MQTT ve HTTP tabanlı veri iletişimi
+- Cihaz üzerinde Web Server ve yerel arayüz geliştirme
+- State machine ve kontrol algoritmaları
+- EEPROM ile kalıcı veri yönetimi ve veri loglama
+- Sistem testi, hata ayıklama ve doğrulama
+- Gerçek donanım üzerinde performans ve kararlılık çalışmaları
 
 ---
 
@@ -178,7 +179,7 @@ Günlük kullanım amaçlı yardımcı sistemler
 
 **IoT & Web**
 
-• ThingsBoard • MQTT • Web Server • Local Web Interface • Dashboard
+• ThingsBoard • Web Server • Local Web Interface • Dashboard
 
 **Geliştirme Araçları**
 
